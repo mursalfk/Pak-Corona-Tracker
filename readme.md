@@ -5,7 +5,8 @@ A Final year Computer System Engineering student with grave interest and knowled
 
 # Project Details
 - [x] Including Overall Pakistan's numbers
-- [ ] Including Province Wise Cases
+- [x] Including Province Wise Cases
+- [ ] Including Statistical Graphs
 
 ## Intro
 > Mursal Furqan  <br />
