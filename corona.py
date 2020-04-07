@@ -125,3 +125,5 @@ except IndexError:
     print ("\t\tDeaths Cases: No Deaths Yet")
 else:  
     print("\t\tDeaths Cases: " + str(AJK_cases[10]))
+
+input("Press Enter to close")
