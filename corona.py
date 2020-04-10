@@ -37,8 +37,8 @@ def province_cases(province_name, ind):
 Punjab_cases = province_cases("Punjab_cases",1)
 Sindh_cases = province_cases("Sindh_cases",2)
 KPK_cases = province_cases("KPK_cases",3)
-GB_cases = province_cases("GB_cases",4)
-Balochistan_cases = province_cases("Balochistan_cases",5)
+GB_cases = province_cases("GB_cases",5)
+Balochistan_cases = province_cases("Balochistan_cases",4)
 FC_cases = province_cases("FC_cases",6)
 AJK_cases = province_cases("AJK_cases",7)
 
