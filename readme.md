@@ -8,9 +8,6 @@ A Final year Computer System Engineering student with grave interest and knowled
 - [x] Including Province Wise Cases
 - [ ] Including Statistical Graphs
 
-
-
-
 ## Intro
 > Mursal Furqan  <br />
 > +923433500305  <br />
