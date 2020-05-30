@@ -6,10 +6,6 @@ from datetime import datetime
 now = datetime.now()
 dt_string = now.strftime("Date: %d/%m/%Y Time: %H:%M:%S")
 print("Last Updated on: ", dt_string)	
-
-
-
-
 response = get(url)
 html_soup = BeautifulSoup(response.text, 'html.parser')
 total = html_soup.find_all('div', class_ = "maincounter-number")
