@@ -7,7 +7,6 @@ from flask import Flask,jsonify
 now = datetime.now()
 dt_string = now.strftime("Date: %d/%m/%Y Time: %H:%M:%S")
 print("Last Updated on: ", dt_string)	
-
 app = Flask(__name__)
 
 response = get(url)
