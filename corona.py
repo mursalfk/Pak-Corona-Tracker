@@ -125,4 +125,4 @@ except IndexError:
 else:  
     print("\t\tDeaths Cases: " + str(AJK_cases[10]))
 
-input("Press Enter to close")
+input("Press Enter to cloe")
