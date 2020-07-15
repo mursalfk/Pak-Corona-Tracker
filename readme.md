@@ -12,3 +12,4 @@ A Final year Computer System Engineering student with grave interest and knowled
 > +923433500305  <br />
 > mursalfurqan@gmail.com
 -> mursalfk.github.io
+-> mursalfurqan.com
